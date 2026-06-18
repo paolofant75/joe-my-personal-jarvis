@@ -1,0 +1,11 @@
+{
+  "license": "Apache-2.0",
+  "spdx_id": "Apache-2.0",
+  "copyright_year": 2026,
+  "copyright_holder": "Paolo Fantinel (PIF Servizi Digitali)",
+  "notice_file": "NOTICE",
+  "license_file": "LICENSE",
+  "third_party_components": [],
+  "maintainer": "paolofant75",
+  "source_repo": "https://github.com/paolofant75/joe-my-personal-jarvis"
+}
