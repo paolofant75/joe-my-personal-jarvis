@@ -1,0 +1,9 @@
+# ElevenLabs configuration (example)
+# Recommended: keep real API key in .env or OS environment variables
+elevenlabs:
+  api_key_env: ELEVENLABS_API_KEY
+  voice_id_env: ELEVENLABS_VOICE_ID
+  voice_name_env: ELEVENLABS_VOICE_NAME
+  model: eleven_standard
+  audio_output: audio/output.wav
+  sample_rate: 24000
